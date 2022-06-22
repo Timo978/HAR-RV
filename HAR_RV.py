@@ -6,7 +6,6 @@ import statsmodels.api as sm
 from datetime import datetime
 from statsmodels.tsa.stattools import adfuller as adf
 from statsmodels.graphics.gofplots import qqplot
-from pandas.plotting import register_matplotlib_converters
 from pandas.plotting import autocorrelation_plot
 from pandas_datareader import data
 from scipy import stats
