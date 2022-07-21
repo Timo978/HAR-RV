@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="480d65db-ab93-4779-a7dc-fa9794619303" name="Changes" comment="7/20" />
+    <list default="true" id="480d65db-ab93-4779-a7dc-fa9794619303" name="Changes" comment="7/20">
+      <change beforePath="$PROJECT_DIR$/20220721-111608.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20220721-111616.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gamma squezz.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAR-RV_forecast.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAR_RV.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HV.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RV-HAR.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RV.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +31,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CBzgeGLmpsqikKSJwRkFPJtBhf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
