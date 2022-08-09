@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="480d65db-ab93-4779-a7dc-fa9794619303" name="Changes" comment="7/20">
-      <change beforePath="$PROJECT_DIR$/20220721-111608.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20220721-111616.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gamma squezz.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HAR-RV_forecast.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HAR_RV.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HV.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RV-HAR.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RV.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAR/tnp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HAR-RV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HAR-RV.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GARCH_class/.ipynb_checkpoints/arma.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GARCH_class/.ipynb_checkpoints/arma.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GARCH_class/garch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GARCH_class/garch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAR/HAR-RV_forecast.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HAR/HAR-RV_forecast.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAR/HV.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAR/RV-HAR.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HAR/RV-HAR.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAR/RV.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/未命名.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +39,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/yangtianyu/Desktop/HAR-RV&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/yangtianyu/Desktop/HAR-RV"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="HAR-RV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,6 +80,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658290878674</updated>
+      <workItem from="1658803578703" duration="1434000" />
+      <workItem from="1658829720319" duration="9615000" />
     </task>
     <task id="LOCAL-00001" summary="7/20">
       <created>1658313074104</created>
@@ -61,6 +92,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
